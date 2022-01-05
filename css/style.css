@@ -5,9 +5,7 @@
 }
 
 .main-container{
-    margin: auto;
-    width: 793px;
-    height: 507px;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -17,7 +15,7 @@
 
 .header .container{
     height: 82px;
-    width: 793px;
+    width: 100vw;
     padding-top: 20px;
     margin-bottom: 20px;
     background-color: #4A4F56;
